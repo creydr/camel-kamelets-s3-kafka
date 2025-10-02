@@ -1,0 +1,1 @@
+# camel-kamelets-s3-kafka
